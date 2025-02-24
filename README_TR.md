@@ -6,7 +6,7 @@ Bu veri seti, Türkiye'deki tarihi mekanlar ve gezilecek yerler hakkında soru-c
 
 ## 📝 Veri Seti Hakkında
 
-Bu veri seti, Google Gemini AI kullanılarak oluşturulmuş olup, Türkiye'nin tarihi ve turistik mekanları hakkında kapsamlı bir soru-cevap koleksiyonu sunmaktadır. Veri seti, makine öğrenimi ve doğal dil işleme çalışmaları için özel olarak SQuAD (Stanford Question Answering Dataset) formatında hazırlanmıştır.
+Bu veri seti, Google Gemini AI kullanılarak oluşturulmuş olup Tamamen Doğrulanmış verilerden oluşturulmuştur Google Gemini modeli ile sadece SQUAD formatına getirilmiştir, Türkiye'nin tarihi ve turistik mekanları hakkında kapsamlı bir soru-cevap koleksiyonu sunmaktadır. Veri seti, makine öğrenimi ve doğal dil işleme çalışmaları için özel olarak SQuAD (Stanford Question Answering Dataset) formatında hazırlanmıştır.
 
 ### 🔍 Veri Seti İçeriği
 
