@@ -1,4 +1,4 @@
-# Turkish-NLP-QQ-Dataset (SQuAD Format)
+# Turkish-NLP-QA-Dataset (SQuAD Format)
 
 Türkçe | [English](README.md)
 
