@@ -6,7 +6,7 @@ This dataset contains question-answer pairs about historical places and tourist 
 
 ## 📝 About the Dataset
 
-This dataset has been created using Google Gemini AI, providing a comprehensive question-answer collection about Turkey's historical and tourist attractions. The dataset is specifically prepared in SQuAD (Stanford Question Answering Dataset) format for machine learning and natural language processing studies.
+This dataset has been created using Google Gemini AI Created from fully validated data, converted to SQUAD format only with Google Gemini model, providing a comprehensive question-answer collection about Turkey's historical and tourist attractions. The dataset is specifically prepared in SQuAD (Stanford Question Answering Dataset) format for machine learning and natural language processing studies.
 
 ### 🔍 Dataset Content
 
