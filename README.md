@@ -29,7 +29,7 @@ The dataset contains information about structures in the following categories:
 ## 🎯 Example Data
 
 ### Example 1: Kozlu Ancient Site (Kırıkkale)
-ENG transtalation:
+ENGLISH Translation:
 ```json ENG transtalation:
 {
   "context": "Located approximately 7 km from Sulakyurt District of Kırıkkale Province, accessible via dirt roads, it is an ancient city ruins with no standing structural remains...",
@@ -47,7 +47,7 @@ ENG transtalation:
 ```
 
 ### Example 2: Emir Ali Kumbet (Bitlis)
-ENG transtalation:
+ENGLISH Translation:
 ```json
 {
   "context": "Measuring 9.10X 6.05 in total external dimensions, Emir Ali Kumbet...",
@@ -65,6 +65,7 @@ ENG transtalation:
 ```
 
 ### Example 3: Kazım Civciv House (Denizli)
+ENGLISH Translation:
 ```json
 {
   "context": "Located in Serinhisar District of Denizli Province, the house is two-storied, built with stone foundation and adobe in upper floors...",
